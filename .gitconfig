@@ -1,0 +1,9 @@
+[user]
+        name = jj4th
+        email = john.andrichak@gmail.com
+[color]
+        ui = always
+[url "https://"]
+        insteadOf = git://
+[push]
+        default = current
